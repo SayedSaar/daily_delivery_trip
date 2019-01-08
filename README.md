@@ -1,1 +1,1 @@
-daily_delivery_trip
+Daily Delivery Trip for ERPNext
